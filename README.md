@@ -7,13 +7,13 @@
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h1 align="center">Introduction à la blockchain (chaîne de blocs)</h3>
+<h1 align="center">Introduction à la blockchain (chaîne de blocs)</h1>
 
   <p align="center">
     Découvrir les concepts clefs de la blockchain et de ses différents domaines d'application
     <br />
-    <a href="https://github.com/sqqyqqh/intro-blockchain/issues">Reporter un bug</a>.
-    ·
+    <a href="https://github.com/sqqyqqh/intro-blockchain/issues">Reporter un bug</a>
+    —
     <a href="https://github.com/sqqyqqh/intro-blockchain/issues">Demander une amélioration</a>
   </p>
 </div>
@@ -103,33 +103,35 @@ GitHub - [@sqqyqqh](https://github.com/github_username/repo_name)
 
 <p align="right">(<a href="#readme-top">haut de page</a>)</p>
 
-
+---
 <!-- SOURCES -->
 ## 📚 Sources
-_Attention : Il est important de noter que ces différents sujets évoluent rapidement, donc assurez-vous de choisir des livres qui sont à jour et qui couvrent les dernières tendances et développements dans le domaine._
+_Attention : Il est important de noter que ces différents sujets évoluent rapidement, donc assurez-vous de choisir des ressources qui sont à jour et qui couvrent les dernières tendances et développements dans le domaine._
 
 ### Blockchain
+Ces livres vous fourniront des informations de base sur la technologie de la blockchain, y compris ses concepts clés, ses applications dans divers domaines, et les défis et opportunités qu'elle présente. Ils vous permettront d'appréhender les concepts fondamentaux de la blockchain et de comprendre comment cette technologie peut être utilisée pour créer de nouvelles solutions et de nouvelles opportunités d'affaires.
+
 * __"Mastering _Blockchain_"__ de Imran Bashir
 * __"_Blockchain_ Basics: A Non-Technical Introduction in 25 Steps"__ de Daniel Drescher
 * __"The Business _Blockchain_: Promise, Practice, and Application of the Next Internet Technology"__ de William Mougayar
 * __"_Blockchain_ Revolution: How the Technology behind _Bitcoin_ is changing money, business, and the world"__ de Don Tapscott et Alex Tapscott
-Ces livres vous fourniront des informations de base sur la technologie de la blockchain, y compris ses concepts clés, ses applications dans divers domaines, et les défis et opportunités qu'elle présente. Ils vous permettront d'appréhender les concepts fondamentaux de la blockchain et de comprendre comment cette technologie peut être utilisée pour créer de nouvelles solutions et de nouvelles opportunités d'affaires.
 
 ### Bitcoin
+Ces livres vous fourniront des informations de base sur la technologie Bitcoin et sur les différents aspects de sa création et de son utilisation, y compris les concepts de base de la crypto-monnaie, les réseaux de consensus, et la sécurité des transactions. Ils vous permettront d'appréhender les concepts clés de Bitcoin et de vous familiariser avec les outils et les techniques utilisés pour créer et gérer des portefeuilles de Bitcoin. 
 * __"Mastering _Bitcoin_: Unlocking Digital Cryptocurrencies"__ de Andreas M. Antonopoulos
 * __"The Basics of _Bitcoins_ and _Blockchains_"__ de Antony Lewis
 * __"_Bitcoin_ and Cryptocurrency Technologies: A Comprehensive Introduction"__ de Arvind Narayanan et al.
 * __"Digital Gold: _Bitcoin_ and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money"__ de Nathaniel Popper
 * __"The Book of _Satoshi_: The Collected Writings of _Bitcoin_ Creator _Satoshi Nakamoto_"__ de Phil Champagne
-Ces livres vous fourniront des informations de base sur la technologie Bitcoin et sur les différents aspects de sa création et de son utilisation, y compris les concepts de base de la crypto-monnaie, les réseaux de consensus, et la sécurité des transactions. Ils vous permettront d'appréhender les concepts clés de Bitcoin et de vous familiariser avec les outils et les techniques utilisés pour créer et gérer des portefeuilles de Bitcoin.
 
 ### Ethereum
+Ces livres vous fourniront des informations de base sur la technologie Ethereum et sur les différents aspects de sa création et de son utilisation, y compris les contrats intelligents, la programmation Solidity, et les applications décentralisées. Ils vous permettront d'appréhender les concepts clés de la plateforme Ethereum et de vous familiariser avec les outils et les techniques utilisés pour créer des applications sur cette plateforme.
+
 * __"Mastering _Ethereum_"__ de Andreas M. Antonopoulos et Gavin Wood
 * __"_Ethereum_: _Blockchains_, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations"__ de Henning Diedrich
 * __"Introducing _Ethereum_ and _Solidity_: Foundations of Cryptocurrency and _Blockchain_ Programming for Beginners"__ de Chris Dannen
 * __"_Ethereum_ Cookbook: Build end-to-end blockchain-based applications using Solidity and Web3.js"__ de Sourav Maji
 * __"Building _Blockchain_ Projects"__ de Narayan Prusty
-Ces livres vous fourniront des informations de base sur la technologie Ethereum et sur les différents aspects de sa création et de son utilisation, y compris les contrats intelligents, la programmation Solidity, et les applications décentralisées. Ils vous permettront d'appréhender les concepts clés de la plateforme Ethereum et de vous familiariser avec les outils et les techniques utilisés pour créer des applications sur cette plateforme.
 
 <p align="right">(<a href="#readme-top">haut de page</a>)</p>
 
