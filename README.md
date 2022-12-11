@@ -22,17 +22,16 @@
 <details>
   <summary>Table des matières</summary>
   <ol>
-    <li>
-      <a href="#getting-started">Pour commencer</a>
+    <li>Pour commencer</li>
       <ul>
-        <li><a href="#prerequisites">Prérequis</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li>Prérequis</li>
+        <li>Installation</li>
       </ul>
     </li>
-    <li><a href="#contributing">Contribution</a></li>
-    <li><a href="#license">Licence</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#sources">Sources</a></li>
+    <li>Contribution</li>
+    <li>Licence</li>
+    <li>Contact</li>
+    <li>Sources</li>
   </ol>
 </details>
 
@@ -89,7 +88,7 @@ N'oubliez pas de donner une étoile au projet ! Merci encore !
 <!-- LICENSE -->
 ## ⚖️ Licence
 
-Distribué sous licence [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr). Voir le fichier `LICENSE` pour plus d'informations.
+Distribué sous licence [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr). Voir le fichier `LICENSE.md` pour plus d'informations.
 
 <p align="right">(<a href="#readme-top">haut de page</a>)</p>
 
