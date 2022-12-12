@@ -7,7 +7,7 @@
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h1 align="center">Introduction à la blockchain (chaîne de blocs)</h1>
+<h1 align="center">Initiation à la blockchain (chaîne de blocs)</h1>
 
   <p align="center">
     Découvrir les concepts clefs de la blockchain et de ses différents domaines d'application
@@ -96,9 +96,7 @@ Distribué sous licence [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/b
 <!-- CONTACT -->
 ## ✉️ Contact
 
-Email - [sqyqh@proton.me](mailto:sqyqh@proton.me)
-Twitter - [@sqqyqqh](https://twitter.com/sqqyqqh)
-GitHub - [@sqqyqqh](https://github.com/github_username/repo_name)
+Email - [sqyqh@proton.me](mailto:sqyqh@proton.me) / Twitter - [@sqqyqqh](https://twitter.com/sqqyqqh) / GitHub - [@sqqyqqh](https://github.com/github_username/repo_name)
 
 <p align="right">(<a href="#readme-top">haut de page</a>)</p>
 
@@ -108,7 +106,7 @@ GitHub - [@sqqyqqh](https://github.com/github_username/repo_name)
 _Attention : Il est important de noter que ces différents sujets évoluent rapidement, donc assurez-vous de choisir des ressources qui sont à jour et qui couvrent les dernières tendances et développements dans le domaine._
 
 ### Blockchain
-Ces livres vous fourniront des informations de base sur la technologie de la blockchain, y compris ses concepts clés, ses applications dans divers domaines, et les défis et opportunités qu'elle présente. Ils vous permettront d'appréhender les concepts fondamentaux de la blockchain et de comprendre comment cette technologie peut être utilisée pour créer de nouvelles solutions et de nouvelles opportunités d'affaires.
+Ces ressources vous fourniront des informations de base sur la technologie de la _blockchain_, y compris ses concepts clés, ses applications dans divers domaines, et les défis et opportunités qu'elle présente. Ils vous permettront d'appréhender les concepts fondamentaux de la blockchain et de comprendre comment cette technologie peut être utilisée pour créer de nouvelles solutions et de nouvelles opportunités d'affaires.
 
 * __"Mastering _Blockchain_"__ de Imran Bashir
 * __"_Blockchain_ Basics: A Non-Technical Introduction in 25 Steps"__ de Daniel Drescher
