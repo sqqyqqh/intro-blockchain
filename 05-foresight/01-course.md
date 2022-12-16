@@ -51,7 +51,7 @@ Voici quelques problèmes qui peuvent être rencontrés avec les NFTs :
 - __Faible liquidité :__ les NFTs peuvent être difficiles à échanger, car ils ne sont pas aussi liquides que d'autres actifs, comme les actions ou les devises. Cela peut rendre difficile l'achat et la vente de NFTs, en particulier pour ceux qui ne sont pas très populaires ou rares.
 - __Problèmes de conservation :__ les NFTs sont stockés dans un portefeuille numérique, qui doit être protégé par un mot de passe. Si vous perdez votre mot de passe ou si votre portefeuille est piraté, vous pourriez perdre votre NFT à jamais.
 - __Manque de réglementation :__ le marché des NFTs est encore relativement nouveau et peu réglementé, ce qui peut rendre difficile la protection des consommateurs contre les escroqueries ou les pratiques commerciales trompeuses.
-_ __Impact environnemental : l'exploitation minière nécessaire pour créer et valider les transactions sur la blockchain peut avoir un impact négatif sur l'environnement, en raison de la consommation d'énergie élevée requise.
+- __Impact environnemental :__ l'exploitation minière nécessaire pour créer et valider les transactions sur la blockchain peut avoir un impact négatif sur l'environnement, en raison de la consommation d'énergie élevée requise.
 
 Bien que les NFTs offrent de nombreuses possibilités intéressantes, ils peuvent être coûteux et comportent des risques et des incertitudes. Il est important de bien comprendre ces problèmes avant de décider de s'engager dans le marché des NFTs.
 
