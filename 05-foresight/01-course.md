@@ -17,7 +17,17 @@
 </div>
 
 
-## 🖼 Le milieu de l'Art
+## 🚀 Perspectives d'évolution
+Il y a de nombreuses perspectives d'évolution pour la blockchain dans les prochaines années :
+
+* __Évolution des protocoles de consensus :__ les protocoles de consensus utilisés dans les blockchains, tels que la preuve de travail (PoW) et la preuve d'enjeu (PoS), peuvent être améliorés pour rendre le réseau plus efficace et plus sécurisé.
+* __Développement de l'interopérabilité :__ il est possible que les différentes blockchains soient en mesure de communiquer entre elles, ce qui permettrait une utilisation plus large de la technologie.
+* Utilisation de la blockchain dans de nouvelles industries : la blockchain peut être utilisée dans de nombreuses industries différentes, telles que la finance, l'agriculture, l'énergie, la santé et la chaîne d'approvisionnement
+* __Amélioration de la scalabilité :__ la blockchain a encore des limites en termes de nombre de transactions qu'elle peut traiter par seconde. Les développeurs travaillent à des solutions pour améliorer la scalabilité de la technologie.
+* __Développement de l'intelligence artificielle :__ l'utilisation de l'intelligence artificielle (IA) avec la blockchain pourrait permettre de prendre de meilleures décisions en temps réel et d'améliorer l'efficacité des opérations.
+* __Utilisation de la blockchain dans la gouvernance :__ la blockchain peut être utilisée pour améliorer la transparence et la responsabilité dans la gouvernance, en permettant aux citoyens de suivre les décisions prises par les gouvernements et les entreprises.
+
+## 🖼 Exemple : le milieu de l'Art
 La blockchain peut avoir un impact important sur le milieu artistique de plusieurs manières :
 
 * __Gestion des droits d'auteur :__ la blockchain peut être utilisée pour enregistrer et suivre les droits d'auteur des œuvres d'art, ce qui peut aider les artistes à protéger leur travail et à recevoir une rémunération juste pour leur travail.
@@ -44,16 +54,6 @@ Voici quelques problèmes qui peuvent être rencontrés avec les NFTs :
 _ __Impact environnemental : l'exploitation minière nécessaire pour créer et valider les transactions sur la blockchain peut avoir un impact négatif sur l'environnement, en raison de la consommation d'énergie élevée requise.
 
 Bien que les NFTs offrent de nombreuses possibilités intéressantes, ils peuvent être coûteux et comportent des risques et des incertitudes. Il est important de bien comprendre ces problèmes avant de décider de s'engager dans le marché des NFTs.
-
-## 🚀 Perspectives d'évolution
-Il y a de nombreuses perspectives d'évolution pour la blockchain dans les prochaines années :
-
-* __Évolution des protocoles de consensus :__ les protocoles de consensus utilisés dans les blockchains, tels que la preuve de travail (PoW) et la preuve d'enjeu (PoS), peuvent être améliorés pour rendre le réseau plus efficace et plus sécurisé.
-* __Développement de l'interopérabilité :__ il est possible que les différentes blockchains soient en mesure de communiquer entre elles, ce qui permettrait une utilisation plus large de la technologie.
-* Utilisation de la blockchain dans de nouvelles industries : la blockchain peut être utilisée dans de nombreuses industries différentes, telles que la finance, l'agriculture, l'énergie, la santé et la chaîne d'approvisionnement
-* __Amélioration de la scalabilité :__ la blockchain a encore des limites en termes de nombre de transactions qu'elle peut traiter par seconde. Les développeurs travaillent à des solutions pour améliorer la scalabilité de la technologie.
-* __Développement de l'intelligence artificielle :__ l'utilisation de l'intelligence artificielle (IA) avec la blockchain pourrait permettre de prendre de meilleures décisions en temps réel et d'améliorer l'efficacité des opérations.
-* __Utilisation de la blockchain dans la gouvernance :__ la blockchain peut être utilisée pour améliorer la transparence et la responsabilité dans la gouvernance, en permettant aux citoyens de suivre les décisions prises par les gouvernements et les entreprises.
 
 ## 🫵 Vous aussi, faites évoluer la blockchain
 il y a de nombreuses manières de contribuer à des projets blockchain, quels que soient vos compétences et votre disponibilité. Vous pouvez choisir la méthode qui vous convient le mieux et qui correspond à vos intérêts et à vos objectifs :
